@@ -55,4 +55,5 @@ Conclusion
 This task provided valuable hands-on experience in designing, simulating, and verifying digital logic using Verilog. Using EDA Playground enabled an efficient, no-installation-required environment for development and testing. The exercise built a foundational understanding of how ALUs work inside digital systems and helped strengthen HDL skills essential for VLSI and FPGA-based design careers.
 
 **OUTPUT**
+![Image](https://github.com/user-attachments/assets/71cf698f-7e1b-4417-8ee7-78821e253ed7)[](url)
 
