@@ -12,7 +12,8 @@
 
 *MENTOR*: NEELA SANTHOSH
 
-**DESCRIPTION**
+**DESCRIPTION**:
+
 As part of the VLSI Internship at CodTech, the first task involved designing and simulating a basic Arithmetic Logic Unit (ALU) using Verilog Hardware Description Language (HDL). The ALU is a fundamental building block in any digital system or processor and is responsible for performing arithmetic and logical operations.
 
 ALU Design Overview
